@@ -14,7 +14,7 @@ def generate_question():
 
 def quiz():
     score = 0
-    for _ in range(5):
+    for i in range(5):
         question, answer = generate_question()
         user_answer = input(question + " ")
         try:
