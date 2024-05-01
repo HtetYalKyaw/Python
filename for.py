@@ -12,7 +12,8 @@ import time
 # for i in "Htet Yal Kyaw":
 #     print(i)
 
-for seconds in range(10,0,-1):
+for seconds in range(10, 0, -1):
     print(seconds)
     time.sleep(1)
 print("Happy New Year!")
+
