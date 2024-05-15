@@ -33,9 +33,7 @@
 # def my_function(food):
 #   for a in food:
 #     print(a)
-#
 # fruit = ["apple", "banana", "cherry"]
-#
 # my_function(fruit)
 
 # def name(x):

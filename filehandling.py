@@ -3,7 +3,7 @@
 #  print(x)
 # f.close()
 
-f = open("index.py", "x")
+# f = open("index.py", "x")
 
 # f = open("myfile.txt", "a")
 # f.write("Hello, i m human")
