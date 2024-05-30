@@ -12,11 +12,17 @@
 # else:
 #     print("No, it doesnt")
 
-
+# opening a file
 # with open('test.txt') as file:
 #     print(file.read())
+# ------------------------
+# text = "\n Have a nice day."
+#
+# with open('test.txt','a') as file:
+#     file.write(text)
+# ------------------------------------
+# copying file
+# import shutil
+#
+# shutil.copy('test.txt','copy.txt') 1.source 2.destination
 
-text = "\n Have a nice day."
-
-with open('test.txt','a') as file:
-    file.write(text)
