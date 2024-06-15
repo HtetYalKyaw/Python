@@ -1,5 +1,7 @@
-x = 0
+from OOP import Car
 
-for i in range(5):
-    x+=1
-print(x)
+car_1 = Car("Ford", "mustang", 2012, "red")
+
+car_1.drive()
+car_1.stop()
+
